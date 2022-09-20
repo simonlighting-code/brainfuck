@@ -1,3 +1,3 @@
-# brainfucker
-Brainfucker interpreter in python
+# brainfuck
+Brainfuck interpreter in python
 **credit: fireship**
